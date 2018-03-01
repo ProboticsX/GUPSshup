@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088605168506",
+    "firebase_url": "https://faltu-b9304.firebaseio.com",
+    "project_id": "faltu-b9304",
+    "storage_bucket": "faltu-b9304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088605168506:android:700451a8cf7ba67f",
+        "android_client_info": {
+          "package_name": "com.example.john.faltu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088605168506-2uj1v8ru0jm95r7fapul360iga29v70o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.john.faltu",
+            "certificate_hash": "6bada9cb98686c946af0e4cac005951d05fda28e"
+          }
+        },
+        {
+          "client_id": "1088605168506-3j85dq456vtdlmkr1c0m05vt4rdtog1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmLpzm193itcmBYPwZ237R_ncQTqcyt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088605168506-3j85dq456vtdlmkr1c0m05vt4rdtog1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

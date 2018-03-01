@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.john.faltu.welcome_screen">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="#00FFFF"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:paddingLeft="40sp"
+            android:paddingTop="150sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GUP"
+            android:textSize="75sp"
+            android:textColor="#ffffff"/>
+        <TextView
+            android:paddingTop="150sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="shup"
+            android:textSize="75sp"
+            android:textColor="#00FFFF"/>
+    </LinearLayout>
+
+    <ImageView
+        android:paddingTop="250sp"
+        android:paddingLeft="100sp"
+        android:paddingBottom="50sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/untitled"/>
+
+    <TextView
+        android:layout_gravity="right|bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="made by shubham jain" />
+
+</FrameLayout>
